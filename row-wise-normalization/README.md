@@ -6,7 +6,7 @@ This task is about normalizing each row of a 2D NumPy array so that the sum of e
 
 ## Task Output
 
-!(https://github.com/musaddique200/datascience/tree/main/row-wise-normalization/output/out1.png)
+![Task Output](output/out1.png)
 
 ## Libraries and Functions Used
 
