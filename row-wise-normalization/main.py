@@ -1,4 +1,4 @@
-# Here's my 3x3 array.
+# Here's my 2D array.
 array_2d = np.array([[1, 2, 3],
                      [4, 5, 6],
                      [7, 8, 9]])
